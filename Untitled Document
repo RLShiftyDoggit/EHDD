@@ -1,0 +1,2 @@
+repo init -u git://nv-tegra.nvidia.com/manifest/android/binary.git -b rel-roth-r5-partner -m secureos/jb_roth.xml
+
